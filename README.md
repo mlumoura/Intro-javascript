@@ -32,9 +32,7 @@ c. Quando o usuário selecionar o checkbox, o item correspondente deve ficar com
 
 
 
-O resultado esperado é parecido com este:
 
-![](/home/lu/Documentos/Aulas/DIO/MRV Fullstack Developer/Introdução ao JavaScript/Imagens/2 - Desafio To-do list/Resultado esperado.png)
 
 
 
